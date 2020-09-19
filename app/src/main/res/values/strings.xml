@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="comics">Comics</string>
+    <string name="DescNotFound">Description not found</string>
+</resources>
